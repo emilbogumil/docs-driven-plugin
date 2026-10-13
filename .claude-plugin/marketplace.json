@@ -1,0 +1,14 @@
+{
+  "name": "docs-driven",
+  "description": "Docs-driven feature development workflow for Claude Code.",
+  "owner": {
+    "name": "Emil T."
+  },
+  "plugins": [
+    {
+      "name": "docs-driven",
+      "source": "./",
+      "description": "Docs-driven feature development workflow: prod-doc, user-doc, test-cases, tech-doc per feature with traceable requirement IDs."
+    }
+  ]
+}

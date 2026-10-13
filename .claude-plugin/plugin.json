@@ -1,0 +1,7 @@
+{
+  "name": "docs-driven",
+  "version": "0.1.0",
+  "description": "Docs-driven feature development: per-feature prod-doc, user-doc, test-cases and tech-doc written in that order, with requirement IDs traced through tests and code.",
+  "license": "MIT",
+  "keywords": ["documentation", "spec-driven", "workflow", "testing", "traceability"]
+}

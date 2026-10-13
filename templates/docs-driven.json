@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "product_name": "{{product_name}}",
+  "audience": "Describe the typical user in one sentence, e.g. 'operations managers at mid-size logistics companies'.",
+  "tone": "Plain, direct, second person. Short sentences. No marketing language.",
+  "test_format": "markdown",
+  "code_root": "..",
+  "test_tag_style": "bracket",
+  "review_after_days": 90,
+  "domains": {}
+}
